@@ -36,4 +36,11 @@ This Jupyter notebook performs a geospatial and statistical analysis of theft in
 
 1. **Clone** this repo:  
    ```bash
-   git clone https://github.com/yourusername/hamilton-theft-analysis.git
+   git clone https://github.com/Aerys12/Spatial-Crime-Hotspot-Mapping.git
+2. Install dependencies:
+   ```bash
+   pip install geopandas pandas folium statsmodels pysal branca openpyxl seaborn
+3. Run the notebook
+   ```bash
+   jupyter lab Hamilton_Theft_Analysis.ipynb
+
