@@ -1,0 +1,91 @@
+AreaUnit,Year,theft_count,SA2_clean,SA22023_V1,Area_Code,Unemployment_Rate,store_count
+bader,2021,1,bader,180500,180500,0.07100591715976332,3.0
+bader,2022,1,bader,180500,180500,0.07100591715976332,3.0
+bader,2023,1,bader,180500,180500,0.07100591715976332,3.0
+beerescourt,2021,1,beerescourt,177600,177600,0.022099447513812154,2.0
+beerescourt,2022,1,beerescourt,177600,177600,0.022099447513812154,2.0
+beerescourt,2023,5,beerescourt,177600,177600,0.022099447513812154,2.0
+burbush,2022,1,burbushbaverstock,,,,
+burbush,2023,1,burbushbaverstock,,,,
+chedworth,2021,9,chedworth,177500,177500,0.026905829596412557,
+chedworth,2022,29,chedworth,177500,177500,0.026905829596412557,
+chedworth,2023,149,chedworth,177500,177500,0.026905829596412557,
+chedworth,2024,88,chedworth,177500,177500,0.026905829596412557,
+claudelands,2021,1,claudelands,179300,179300,0.06035665294924554,3.0
+dinsdale north,2021,1,dinsdale north,177901,,,3.0
+dinsdale south,2021,13,dinsdale south,178100,178100,0.036281179138321996,4.0
+dinsdale south,2022,15,dinsdale south,178100,178100,0.036281179138321996,4.0
+dinsdale south,2023,25,dinsdale south,178100,178100,0.036281179138321996,4.0
+dinsdale south,2024,20,dinsdale south,178100,178100,0.036281179138321996,4.0
+enderley,2021,1,enderley north,178400,178400,0.08936170212765958,
+enderley,2022,5,enderley north,178400,178400,0.08936170212765958,
+enderley,2023,12,enderley north,178400,178400,0.08936170212765958,
+enderley,2024,2,enderley north,178400,178400,0.08936170212765958,
+flagstaff,2021,1,flagstaff east,175801,,,
+frankton junction,2021,1,frankton junction,178901,,,9.0
+frankton junction,2022,2,frankton junction,178901,,,9.0
+frankton junction,2023,3,frankton junction,178901,,,9.0
+frankton junction,2024,1,frankton junction,178901,,,9.0
+glenview,2023,4,glenview,180900,180900,0.04669260700389105,1.0
+glenview,2024,4,glenview,180900,180900,0.04669260700389105,1.0
+hamilton central,2021,78,hamilton central,179401,,,11.0
+hamilton central,2022,96,hamilton central,179401,,,11.0
+hamilton central,2023,185,hamilton central,179401,,,11.0
+hamilton central,2024,152,hamilton central,179401,,,11.0
+hamilton east,2021,1,hamilton east,180200,180200,0.04721030042918455,2.0
+hamilton east,2022,1,hamilton east,180200,180200,0.04721030042918455,2.0
+hamilton east,2023,2,hamilton east,180200,180200,0.04721030042918455,2.0
+hamilton east,2024,10,hamilton east,180200,180200,0.04721030042918455,2.0
+hamilton lake,2021,2,hamilton lake south,179502,,,1.0
+hamilton lake,2022,8,hamilton lake south,179502,,,1.0
+hamilton lake,2023,10,hamilton lake south,179502,,,1.0
+hamilton lake,2024,1,hamilton lake south,179502,,,1.0
+hillcrest west,2021,4,hillcrest west hamilton city,,,,
+hillcrest west,2022,1,hillcrest west hamilton city,,,,
+hillcrest west,2023,2,hillcrest west hamilton city,,,,
+horsham downs,2022,1,horsham downs,172700,172700,0.0234375,
+horsham downs,2023,7,horsham downs,172700,172700,0.0234375,
+horsham downs,2024,9,horsham downs,172700,172700,0.0234375,
+huntington,2021,9,huntington,176900,176900,0.027160493827160494,
+huntington,2022,10,huntington,176900,176900,0.027160493827160494,
+huntington,2023,35,huntington,176900,176900,0.027160493827160494,
+huntington,2024,9,huntington,176900,176900,0.027160493827160494,
+maeroa,2021,1,maeroa,178000,178000,0.05070754716981132,5.0
+maeroa,2022,1,maeroa,178000,178000,0.05070754716981132,5.0
+melville,2021,1,melville north,180100,180100,0.0562015503875969,4.0
+nawton,2021,2,nawton east,177200,177200,0.0513126491646778,1.0
+nawton,2022,1,nawton east,177200,177200,0.0513126491646778,1.0
+nawton,2023,1,nawton east,177200,177200,0.0513126491646778,1.0
+nawton,2024,2,nawton east,177200,177200,0.0513126491646778,1.0
+peachgrove,2021,18,peachgrove,179600,179600,0.04050925925925926,1.0
+peachgrove,2022,13,peachgrove,179600,179600,0.04050925925925926,1.0
+peachgrove,2023,27,peachgrove,179600,179600,0.04050925925925926,1.0
+peachgrove,2024,51,peachgrove,179600,179600,0.04050925925925926,1.0
+porritt,2022,1,porritt,177800,177800,0.0546448087431694,2.0
+porritt,2023,2,porritt,177800,177800,0.0546448087431694,2.0
+porritt,2024,3,porritt,177800,177800,0.0546448087431694,2.0
+riverlea,2021,2,riverlea,181200,181200,0.03770739064856712,2.0
+riverlea,2022,2,riverlea,181200,181200,0.03770739064856712,2.0
+riverlea,2023,8,riverlea,181200,181200,0.03770739064856712,2.0
+riverlea,2024,2,riverlea,181200,181200,0.03770739064856712,2.0
+rotokauri,2022,1,rotokauri,172900,172900,0.02717391304347826,
+rotokauri,2023,1,rotokauri,172900,172900,0.02717391304347826,
+rotokauri,2024,2,rotokauri,172900,172900,0.02717391304347826,
+rototuna,2021,2,rototuna east,175902,,,
+rototuna,2022,4,rototuna east,175902,,,
+rototuna,2023,16,rototuna east,175902,,,
+rototuna,2024,3,rototuna east,175902,,,
+silverdale,2021,1,silverdale hamilton city,,,,
+silverdale,2022,1,silverdale hamilton city,,,,
+silverdale,2024,2,silverdale hamilton city,,,,
+swarbrick,2021,2,swarbrick,178701,,,1.0
+swarbrick,2023,1,swarbrick,178701,,,1.0
+swarbrick,2024,1,swarbrick,178701,,,1.0
+te rapa,2021,73,te rapa north,175201,,,2.0
+te rapa,2022,169,te rapa north,175201,,,2.0
+te rapa,2023,122,te rapa north,175201,,,2.0
+te rapa,2024,115,te rapa north,175201,,,2.0
+university,2021,11,hamilton central,179401,,,11.0
+university,2022,10,hamilton central,179401,,,11.0
+university,2023,25,hamilton central,179401,,,11.0
+university,2024,14,hamilton central,179401,,,11.0
