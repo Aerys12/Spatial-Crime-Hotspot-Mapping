@@ -25,11 +25,7 @@ This Jupyter notebook performs a geospatial and statistical analysis of theft in
    - Univariate OLS for each predictor (store count, unemployment rate, population density).  
    - Multivariate OLS combining predictors; compare R², AIC, coefficient significance.
 
-4. **Spatial Autocorrelation**  
-   - Compute **Moran’s I** on raw theft counts.  
-   - Compute **Moran’s I** on OLS residuals to assess leftover spatial clustering.
-
-5. **Interactive Mapping** (optional)  
+4. **Interactive Mapping** (optional)  
    - Folium choropleth layers toggled by year, with a shared legend and custom title.
 
 ## Usage
